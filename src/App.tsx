@@ -5,7 +5,6 @@ import DonateButton from './components/Button'
 import BoxSection from './components/BoxSection'
 import FormSection from './components/FormSection'
 import StepSection from './components/StepSection'
-import Payment from './components/Payment'
 
 function App() {
   return (
