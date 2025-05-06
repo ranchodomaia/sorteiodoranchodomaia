@@ -1,5 +1,3 @@
-import DonateButton from "./Button";
-
 const StepSection = () => {
 
     return (
